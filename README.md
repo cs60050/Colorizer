@@ -1,6 +1,7 @@
 # `Colorizer`
-- Colorizer is a smart machine learning system which aims to approximate the color model of B/W images via Machine Learning techniques.
-- Colorizer uses Deep Convolutional Neural Networks for training its model.
++ Colorizer is a smart machine learning system which aims to approximate the color model of B/W images via Machine Learning techniques.
++ Colorizer uses Deep Convolutional Neural Networks for training its model.
+
 ----
 ### By `Heisenbug`
 + Akash Borkar [@freeSharer](https://github.com/freeSharer)
